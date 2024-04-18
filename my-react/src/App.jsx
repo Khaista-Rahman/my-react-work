@@ -1,9 +1,9 @@
 import './App.css';
-import Chai from './Chai.jsx'; // Remove whitespace between '/src' and '/Chai.jsx'
+import Shahid from './shahid.jsx';
 
 function App() {
   return (
-    <Chai />
+    <Shahid/>
   );
 }
 
