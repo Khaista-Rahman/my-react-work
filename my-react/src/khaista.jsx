@@ -7,4 +7,7 @@ function Khaista(){
     </h1>
   );
 }
+
+
+
 export default Khaista;
